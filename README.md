@@ -282,7 +282,6 @@ Returns backend status.
 
 Add screenshots here.
 
-```
 screenshots/
 │
 ├── home.png/upload.png
@@ -290,6 +289,6 @@ screenshots/
 ├── chat.png
 ![alt text](image-1.png)
 ![alt text](image-2.png)
-```
+
 
 
