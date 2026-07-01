@@ -18,6 +18,7 @@ If the answer is unavailable, say:
 Context:
 
 {context}
+</context>
 """
 
     response = llm.invoke(
